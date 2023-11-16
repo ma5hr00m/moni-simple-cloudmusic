@@ -39,12 +39,12 @@ window.addEventListener('hashchange', function() {
   const hashRoute = getCurrentHashRoute();
 
   if (hashRoute === '') {
-    renderPage('pages/home.html');
+    renderPage('src/pages/home.html');
   } else if (hashRoute === 'manager') {
-    renderPage('pages/manager.html');
+    renderPage('src/pages/manager.html');
   }
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-  renderPage('pages/home.html');
+  renderPage('src/pages/home.html');
 });

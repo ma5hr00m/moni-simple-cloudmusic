@@ -5,3 +5,6 @@
 - HTML5
 - CSS3
 - JavaScript
+
+## API
+- [网易云音乐API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
