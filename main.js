@@ -1,6 +1,5 @@
 const routes = {
   '': 'home.html',
-  '#/manager': 'manager.html',
   '#/my': 'my.html',
 };
 
